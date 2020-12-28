@@ -13,6 +13,7 @@ conda install -r requirements.txt
 ## Usage
 
 Example: using 4 different machines (or CPU cores):
+
 On node 0:
 ```
 python train.py --nodes 2 --nr 0
