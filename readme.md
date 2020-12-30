@@ -7,7 +7,7 @@ The implementation is based on *Pytorch*, specificially the module *torch.nn.par
 
 ## Dependencies
 ```
-conda install -r requirements.txt
+conda install -c pytorch -r requirements.txt
 ```
 
 ## Usage
